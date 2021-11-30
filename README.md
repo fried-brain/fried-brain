@@ -4,7 +4,7 @@
     <img width="360" height="300" alt="Computer" src="computer.gif">
 </div>
 <br>
-<p> Hi! I am Advick, a middle school student who has fallen in love with programming. I ❤️ GUI Development, Robotics and Machine Learning. My passion is programming and my goal is to change the world using technology. <strong>My Website: <a href="https://www.advick.ml/">www.advick.ml</a></strong></p>
+<p> Hi! I am Aman, a middle school student who has fallen in love with programming. I ❤️ GUI Development, Robotics and Machine Learning. My passion is programming and my goal is to change the world using technology. <strong>My Website: <a href="https://www.alone.godspray.repl.it/">www.fried-brain.code</a></strong></p>
 
 <!-- Skills -->
 <h2>Skills</h2>
@@ -20,7 +20,7 @@
 <h2>GitHub Stats</h2>
 <br>
 <div align = "center">
-    <img alt = "Advick's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=AdvickV&show_icons=true&title_color=27D796&icon_color=B877DB&text_color=F9CBBE&bg_color=1C1E26">
+    <img alt = "Fried Brain's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=fried-brainV&show_icons=true&title_color=27D796&icon_color=B877DB&text_color=F9CBBE&bg_color=1C1E26">
 </div>
 
 <!-- Projects -->
