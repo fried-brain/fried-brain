@@ -4,7 +4,7 @@
 
 <div align = "center">
 
-    <img width="360" height="300" alt="Computer" src="computer.gif">
+    <img width="360" height="300" alt="Computer" src="https://github.com/fried-brain/fried-brain/blob/main/computer.gif">
 
 </div>
 
