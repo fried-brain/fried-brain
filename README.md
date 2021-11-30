@@ -75,12 +75,13 @@ const fried_brain = {
 <div align = "center">
     <img alt = "Fried Brain's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=fried-brain&show_icons=true&title_color=27D796&icon_color=B877DB&text_color=F9CBBE&bg_color=1C1E26">
 </div>
-<p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=fried-brain&theme=github" alt="mad-skull" /></p>
-
----
+<div>
+<p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=fried-brain&theme=github" alt="fried-brain" /></p>
+</div>
 
 <!-- Projects -->
 <h2>Projects</h2>
+
 <br>
 <div align = "center">
     <table>
