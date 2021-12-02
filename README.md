@@ -18,7 +18,7 @@
 
 - 👨🏽‍💻 I'm a self-taught programmer.
 - 💼 I'm a Bachelor In Science(Mathematics).
-- 🌱 Proficient in Python and JavaScript.
+- 🌱 Proficient in Python and Learning JavaScript.
 - 🤔 My interests are AI & ML, Data Science and WebDev.
 - ☁️ New to DevOps.
 - 💼 I’m currently preparing for Job.
@@ -31,7 +31,7 @@
 ```javascript
 const fried_brain = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, R, Python],
+  code: [Javascript, HTML, CSS, Python],
   tools: [React, Node, Git, GitHub],
   editors: ["VS Code", "Sublime-Text", "Pycharm", "Atom", "IntelliJ Idea"],
   techCommunities: {
@@ -53,7 +53,6 @@ const fried_brain = {
 <code><img height="20" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
 
-<code><img height="20" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
 <code><img height="20" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B"></code>
@@ -65,7 +64,6 @@ const fried_brain = {
 <code><img height="20" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"></code>
 <code><img height="20" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"></code>
 <code><img height="20" src="https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon"></code>
-<code><img height="20" src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white"></code>
 
 ---
 
