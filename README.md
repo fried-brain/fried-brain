@@ -100,7 +100,12 @@ const fried_brain = {
         <td><a href="https://github.com/fried-brain/Scoop-portf" target="_blank">
             <img alt="Piano-Tiles-Bot" src="https://github-readme-stats.vercel.app/api/pin/?username=Fried-Brain&repo=Scoop-portf&show_icons=true&title_color=27D796&icon_color=B877DB&text_color=F9CBBE&bg_color=1C1E26">
         </a></td>
-        </tr>  
+        </tr>
+        <tr>
+        <td><a href="https://github.com/fried-brain/100-days-of-code-Python" target="_blank">
+            <img alt="100 Days Of Code - Python" src="https://github-readme-stats.vercel.app/api/pin/?username=Fried-Brain&repo=100-days-of-code-Python&show_icons=true&title_color=27D796&icon_color=B877DB&text_color=F9CBBE&bg_color=1C1E26">
+        </a></td>
+        </tr>
     </table>
 </div>
 
