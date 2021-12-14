@@ -14,7 +14,7 @@
 
 <p align="center"> 
 
-  <h3>Visitor count</h3><br>
+  <h4>Visitor count</h4><br>
 
   <img src="https://profile-counter.glitch.me/Fried-Brain/count.svg" />
 
