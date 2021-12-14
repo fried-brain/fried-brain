@@ -80,16 +80,15 @@ const fried_brain = {
 <div align = "center">
     <img alt = "Fried Brain's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=fried-brain&show_icons=true&title_color=27D796&icon_color=B877DB&text_color=F9CBBE&bg_color=1C1E26">
 </div>
-<div>
-<p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=fried-brain&theme=github" alt="fried-brain" /></p>
+<div align = "center">
+<p><img src="https://activity-graph.herokuapp.com/graph?username=fried-brain&theme=github" alt="fried-brain" /></p>
 </div>
-<div>
-</div>
-</br>
-<br>
+
+<!---Most Used Languages---->
+<h2>Most Used Languages</h2>
 <div align = "center">
 <p>
- <img alt = "Most Used Languages" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=fried-brain&theme=tokyonight">
+ <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=fried-brain&theme=tokyonight">
 </p>
 </div>
 
