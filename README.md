@@ -91,6 +91,12 @@ const fried_brain = {
  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=fried-brain&theme=tokyonight">
 </p>
 </div>
+<h2>Contributions & Streak</h2>
+<div align = "center">
+<p>
+ <img src = "https://github-readme-streak-stats.herokuapp.com/?user=fried-brain&theme=tokyonight&ring=DD2727&fire=DD2727&currStreakNum=6695E6">
+</p>
+</div>
 
 <!-- Projects -->
 <h2>Projects</h2>
