@@ -79,7 +79,7 @@ const fried_brain = {
 <h2>GitHub Stats</h2>
 <br>
 <div align = "center">
-    <img alt = "Fried Brain's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=fried-brain&show_icons=true&title_color=27D796&icon_color=B877DB&text_color=F9CBBE&bg_color=1C1E26">
+    <img alt = "Fried Brain's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=fried-brain&show_icons=true&title_color=ffb300&icon_color=ffb300&text_color=ffb300&bg_color=1C1E26">
 </div>
 <div align = "center">
 <p><img src="https://activity-graph.herokuapp.com/graph?username=fried-brain&theme=github" alt="fried-brain" /></p>
