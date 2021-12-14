@@ -83,7 +83,15 @@ const fried_brain = {
 <div>
 <p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=fried-brain&theme=github" alt="fried-brain" /></p>
 </div>
-
+<div>
+</div>
+</br>
+<br>
+<div align = "center">
+<p>
+ <img alt = "Most Used Languages" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=fried-brain&theme=tokyonight">
+</p>
+</div>
 
 <!-- Projects -->
 <h2>Projects</h2>
