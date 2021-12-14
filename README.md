@@ -79,23 +79,23 @@ const fried_brain = {
 <h2>GitHub Stats</h2>
 <br>
 <div align = "center">
-    <img alt = "Fried Brain's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=fried-brain&show_icons=true&title_color=ffb300&icon_color=ffb300&text_color=ffb300&bg_color=1C1E26">
+    <img alt = "Fried Brain's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=fried-brain&custom_title=Github+Stats+Data&show_icons=true&hide_border=true&title_color=ffb300&icon_color=ffb300&text_color=ffb300&bg_color=00000000">
 </div>
 <div align = "center">
-<p><img src="https://activity-graph.herokuapp.com/graph?username=fried-brain&theme=github" alt="fried-brain" /></p>
+<p><img src="https://activity-graph.herokuapp.com/graph?username=fried-brain&hide_border=true&bg_color=00000000&color=ffb300&theme=github" alt="fried-brain" /></p>
 </div>
 
 <!---Most Used Languages---->
 <h2>Most Used Languages</h2>
 <div align = "center">
 <p>
- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=fried-brain&theme=tokyonight">
+ <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=fried-brain&color=ffb300&hide_border=true&bg_color=00000000&theme=tokyonight">
 </p>
 </div>
 <h2>Contributions & Streak</h2>
 <div align = "center">
 <p>
- <img src = "https://github-readme-streak-stats.herokuapp.com/?user=fried-brain&theme=tokyonight&ring=DD2727&fire=DD2727&currStreakNum=6695E6">
+ <img src = "https://github-readme-streak-stats.herokuapp.com/?user=fried-brain&text_color=ffb300&hide_border=true&bg_color=00000000&theme=tokyonight&ring=DD2727&fire=DD2727&currStreakNum=6695E6">
 </p>
 </div>
 
