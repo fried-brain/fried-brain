@@ -84,9 +84,6 @@ const fried_brain = {
 <p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=fried-brain&theme=github" alt="fried-brain" /></p>
 </div>
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=fried-brain&theme=tokyonight)
-
-![ReadMe Card](https://github-readme-streak-stats.herokuapp.com/?user=fried-brain&theme=tokyonight&ring=DD2727&fire=DD2727&currStreakNum=6695E6)
 
 <!-- Projects -->
 <h2>Projects</h2>
