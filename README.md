@@ -1,8 +1,6 @@
-<div align="center">
-<h1> Hi, I'm Aman Verma! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
-</div>
+<!--### Hello World, I am Aman 👋 -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&size=40&vCenter=true&width=500&lines=Hello+Human!!+%F0%9F%91%8B;I+am+Aman+,+;I+am+a+Full+Stack+Developer&color=ff960d)](https://git.io/typing-svg)
 
-<br/>
 <p><em>Developer at <a href="http://www.instagram.com/csuniverse.in">CS Universe</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Leading Awesome People at <a href="https://www.instagram.com/eyeesportsindia">EYE ESPORTS</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
