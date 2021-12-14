@@ -83,7 +83,7 @@ const fried_brain = {
 <div>
 <p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=fried-brain&theme=github" alt="fried-brain" /></p>
 </div>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prykdev&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fried-brain&theme=tokyonight)
 
 ![ReadMe Card](https://github-readme-streak-stats.herokuapp.com/?user=prykdev&theme=tokyonight&ring=DD2727&fire=DD2727&currStreakNum=6695E6)
 
