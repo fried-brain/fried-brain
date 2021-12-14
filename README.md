@@ -82,7 +82,7 @@ const fried_brain = {
     <img alt = "Fried Brain's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=fried-brain&custom_title=Github+Stats+Data&show_icons=true&hide_border=true&title_color=ffb300&icon_color=ffb300&text_color=ffb300&bg_color=00000000">
 </div>
 <div align = "center">
-<p><img src="https://activity-graph.herokuapp.com/graph?username=fried-brain&hide_border=true&bg_color=00000000&color=ffb300&theme=github" alt="fried-brain" /></p>
+<p><img src="https://activity-graph.herokuapp.com/graph?username=fried-brain&theme=react-dark&bg_color=00000000&color=ff7a0d&line=ffb300&point=ff7a0d&area=true&hide_border=true" alt="fried-brain" /></p>
 </div>
 
 <!---Most Used Languages---->
