@@ -4,12 +4,15 @@
 <p><em>Developer at <a href="http://www.instagram.com/csuniverse.in">CS Universe</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Leading Awesome People at <a href="https://www.instagram.com/eyeesportsindia">EYE ESPORTS</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
+<img alt="Follow Twitter" src="https://img.shields.io/twitter/follow/fried_brain_?color=ffb300&label=Fried%20Brain&logo=twitter&logoColor=ffb300&style=for-the-badge">
+  
 <img src="https://miro.medium.com/max/2800/1*BU7f02LeQeELztqxa8eCmw.gif" align="right" alt="Coder GIF" width="480" height="300">
 
 [![Twitter: Fried-Brain](https://img.shields.io/twitter/follow/fried_brain_?style=social)](https://twitter.com/fried_brain_)
 [<img height="20" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/aman-verma-3a633015a/)
 [![GitHub Fried-Brain](https://img.shields.io/github/followers/Fried-Brain?label=follow&style=social)](https://github.com/Fried-Brain)
-
+<img alt="Follow Twitter" src="https://img.shields.io/twitter/follow/AksNema?color=ffb300&label=Aks%20Nema&logo=twitter&logoColor=ffb300&style=for-the-badge">
+  
 <p align="center"> 
 
   <h4>Visitor count</h4><br>
