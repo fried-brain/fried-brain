@@ -30,7 +30,7 @@
 - ☁️ New to DevOps.
 - 💼 I’m currently preparing for Job.
 - 💬 Ask me about anything, I love to answer!
-- 💻 Check my [website](https://Fried-brain.godspray.repl.co/).
+- 💻 Check my [website](https://www.Fried-brain.repl.co/).
 - 📫 Email me at [workforgodspray@gmail.com](mailto:workforgodspray@gmail.com).
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
