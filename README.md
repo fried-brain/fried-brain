@@ -14,14 +14,14 @@
 
 <p align="center"> 
 
-  <h4>Visitor count</h4><br>
+  <h3>Visitor count</h3><br>
 
   <img src="https://profile-counter.glitch.me/Fried-Brain/count.svg" />
 
 </p>
----
 
-**About Me!**
+
+<h2>About Me!</h2>
 
 - 👨🏽‍💻 I'm a self-taught programmer.
 - 💼 I'm a Bachelor In Science(Mathematics).
