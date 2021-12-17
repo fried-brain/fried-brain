@@ -39,7 +39,7 @@
 ```javascript
 const fried_brain = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, Python],
+  code: [Javascript, HTML, CSS, Python, NumPy],
   tools: [React, Node, Git, GitHub],
   editors: ["VS Code", "Sublime-Text", "Pycharm", "Atom", "IntelliJ Idea"],
   techCommunities: {
