@@ -41,7 +41,7 @@ const fried_brain = {
   pronouns: "he" | "him",
   code: [HTML, CSS, JavaScript, Python, NumPy],
   tools: [React, Node, Git, GitHub],
-  editors: ["VS Code", "Sublime-Text", "Pycharm", "Atom", "IntelliJ Idea"],
+  editors: ["VS Code", "Sublime-Text", "Pycharm", "Atom", "Spyder"],
   techCommunities: {
                         Founder: "CS Universe",
                         Owner: "Fried Brain",
